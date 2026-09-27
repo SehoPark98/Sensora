@@ -38,3 +38,6 @@ Sensora is organized into three main layers:
 ## Technologies
 
 `C++` `ESP32` `IoT` `Microsoft Azure` `Sensors` `Wi-Fi`
+
+## Demo
+[Watch the Sensora Demo Video](https://drive.google.com/file/d/1RKGYNkcutz6R-_y1VDcN0swi0SHR9A8F/view?usp=share_link)
